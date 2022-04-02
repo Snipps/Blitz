@@ -1,2 +1,6 @@
-.vs
+#output
 out
+
+# visual studio
+.vs
+*.vcxproj
